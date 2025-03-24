@@ -2,4 +2,5 @@
 NAME="World"
 echo "Hello, $NAME!"
  $ cat bash.sh
-Hello, World!
+ echo 'the practice started'
+echo 'the practice ended'
